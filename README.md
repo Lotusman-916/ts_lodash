@@ -1,0 +1,2 @@
+# ts_lodash
+一个基于lodash使用typescript进行类型限制
